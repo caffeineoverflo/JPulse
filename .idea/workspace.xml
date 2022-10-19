@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5387ec43-3cb6-4baa-9360-739879dcdac7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tonikrug/jpulse/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tonikrug/jpulse/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tonikrug/jpulse/TokenType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonikrug/jpulse/JPulse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonikrug/jpulse/JPulse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonikrug/jpulse/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonikrug/jpulse/Scanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="JPulse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tonikrug.jpulse.JPulse" />
+      <module name="JPulse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tonikrug.jpulse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JPulse" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
